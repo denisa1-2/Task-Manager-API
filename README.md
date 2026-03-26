@@ -1,6 +1,8 @@
 # Task-Manager-API
 
-A simple REST API built with FastAPI for managing tasks.
+## Overview
+
+This project is a simple baskend API built with FastAPI that allows users to manage tasks using CRUD operations.
 
 ## Features
 
