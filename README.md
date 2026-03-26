@@ -33,6 +33,7 @@ task-manager-api/
 |   |- schemas.py
 |
 |- requirements.py
+```
 
 ## Installation
 
@@ -41,17 +42,20 @@ task-manager-api/
 3. Install dependencies
 ```bash
 pip install - r requirements.txt
+```
 
 ## Run the Project
 
 ```bash
 uvicorn app.main:app --reload
+```
 
 ## API Documentation
 
 After running the server, open:
 ```bash
 http://127.0.0.1:8000/docs
+```
 
 ## Exemple Task
 
