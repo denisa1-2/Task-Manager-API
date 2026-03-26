@@ -59,9 +59,11 @@ http://127.0.0.1:8000/docs
 
 ## Exemple Task
 
+```json
 {
   "title": "Learn FastAPI",
   "description": "Build my first backend project",
   "status": "pending",
   "priority": 2
 }
+```
